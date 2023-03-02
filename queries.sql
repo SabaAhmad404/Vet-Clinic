@@ -23,7 +23,7 @@ WHERE name='Agumon'or name='pikachu'
 -- List name and escape attempts of animals that weigh more than 10.5kg
 SELECT name, escape_attempts
 From animals
-where weight_kg >10.5
+where weight_kg >'10.5'
 
 -- Find all animals that are neutered.
 SELECT  *
@@ -39,3 +39,27 @@ WHERE not name ='Gabumon'
 SELECT  *
 From animals
 WHERE weight_kg between 10.4 and 17.3
+
+
+-- Inside a transaction update the animals table by setting the species column to unspecified. Verify that change was made. Then roll back the change and verify that the species columns went back to the state before the transaction.
+
+
+Begin; 
+UPDATE animals
+set species='unspecified';
+Select * from animals;
+rollback;
+select * from animals;
+
+-- Update the animals table by setting the species column to digimon for all animals that have a name ending in mon.
+-- Update the animals table by setting the species column to pokemon for all animals that don't have species already set.
+
+Begin; 
+update animals
+set species='digimon'
+where name like '%mon';
+update animals
+set species='pokemon'
+where species IS  null;
+commit;
+select * from animals;
