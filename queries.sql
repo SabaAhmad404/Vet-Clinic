@@ -10,15 +10,15 @@ WHERE (date_of_birth) between '2016-01-01' and '2019-12-31'
 
 -- List the name of all animals that are neutered and have less than 3 escape attempts.
 
-select name
-from animals
-where neutered=true and escape_attempts <3
+SELECT name
+FROM animals
+WHERE neutered=true and escape_attempts <3
 
 -- List the date of birth of all animals named either "Agumon" or "Pikachu".
 
-select date_of_birth,name
-from animals
-where name='Agumon'or name='pikachu'
+SELECT date_of_birth,name
+FROM animals
+WHERE name='Agumon'or name='pikachu'
 
 -- List name and escape attempts of animals that weigh more than 10.5kg
 SELECT name, escape_attempts
