@@ -197,11 +197,13 @@ where vets.name='Stephanie Mendez'
 and visits.date_of_vists BETWEEN '01-04-2020' AND '08-30-2020'
 
 -- What animal has the most visits to vets?
-Select count(animals.name), vets.name from animals inner join visits on animals.id=visits.animal_id
-inner join vets on vets.id= visits.vets_id
-group by vets.name
-order by count(animals.name) desc
-limit 1
+SELECT animals.name,visits.date_of_vists
+  FROM visits
+  LEFT JOIN animals ON animals.id = visits.animal_id
+  LEFT JOIN vets ON vets.id = visits.vets_id
+  WHERE vets.name = 'William Tatcher'
+  ORDER BY visits.date_of_vists DESC
+  LIMIT 1;
 
 -- Who was Maisy Smith's first visit?
 
