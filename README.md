@@ -25,8 +25,33 @@ In this project, you will use a relational database to create the initial data s
 
 ## 🛠 Built With <a name="built-with"></a>
 
-  postgreSQL
-    
+### Tech Stack <a name="tech-stack"></a>
+
+
+<details>
+  <summary>Client</summary>
+</details>
+
+<details>
+  <summary>Server</summary>
+
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+
+- **[User can search animals by name]**
+- **[User can filter animals by weight]**
+- **[Usser can filter animals by escape attempts]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,10 +110,14 @@ Saba Ahmad
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
 ## 🔭 Future Features <a name="future-features"></a>
 
-- You can suggest some UX improvements and suggest some animations.
 
+- [ ] **[Filter By Name]**
+- [ ] **[Filter by location]**
+- [ ] **[Filter animals by habits]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,8 +135,11 @@ Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGEMENTS -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I Would like to Thanks Microverse for providing the Project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
