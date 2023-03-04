@@ -44,3 +44,33 @@ CREATE TABLE species(
     id SERIAL PRIMARY KEY,
     name string
 )
+
+
+-- many to many relationship start from here
+
+
+-- vets table
+Create Table vets (
+id serial primary key,
+	name text,
+	age integer,
+	date_of_graduation date
+)
+
+-- specialization
+
+Create Table specializations(
+    id serial primary key
+  vets_id integer references vets(id),
+   species_id  integer references species(id),
+)
+
+
+--  visits
+CREATE TABLE visits(
+    id serial primary key
+   animal_id integer references animals(id),
+	vets_id integer references vets(id),
+	date_of_vists date,
+	
+)
