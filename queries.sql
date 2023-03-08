@@ -244,3 +244,13 @@ GROUP BY animals.name, vet
 )
 SELECT * FROM new WHERE total_visits = (SELECT MAX(total_visits) FROM new);
 
+
+-- performance start from here
+ explain analyze SELECT COUNT(*) FROM visits where animal_id = 4;
+CREATE INDEX animal_id_index ON visits(animal_id);
+
+explain analyze SELECT * FROM visits where vets_id = 2;
+CREATE INDEX date_of_vists_index ON visits(vets_id);
+
+explain analyze SELECT * FROM owners where email = 'owner_18327@mail.com';
+CREATE INDEX email_index ON owners(email);
