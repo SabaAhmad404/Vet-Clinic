@@ -74,3 +74,10 @@ CREATE TABLE visits(
 	date_of_vists date,
 	
 )
+
+
+-- queries performance start here
+-- Add colum to owners
+
+
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);
