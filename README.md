@@ -103,10 +103,18 @@ Clone this repository to your desired folder:
 <!-- Author -->
 
 👤 **Authors**
+
+👤 **Author1**
+
 Saba Ahmad
 
 - GitHub: [@SabaAhmad404](https://github.com/SabaAhmad404)
 - LinkedIn: [@saba ahmad](https://www.linkedin.com/in/saba-ahmad-97b938244/)
+
+👤 **Author2**
+- Steven Mukama 
+- Github: [@stevenmukama](https://github.com/stevenmukama)
+- LinkedIn: [@steven mukama](https://www.linkedin.com/in/stevenmukama/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
