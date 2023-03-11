@@ -25,6 +25,14 @@ In this project, you will use a relational database to create the initial data s
 
 ## 🛠 Built With <a name="built-with"></a>
 
+
+  postgreSQL
+    
+
+
+  postgreSQL
+    
+
 ### Tech Stack <a name="tech-stack"></a>
 
 
@@ -53,13 +61,14 @@ In this project, you will use a relational database to create the initial data s
 - **[User can filter animals by weight]**
 - **[Usser can filter animals by escape attempts]**
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
+
 -[COMING SOON]()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -110,18 +119,170 @@ Saba Ahmad
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
+## 💻 Getting Started <a name="getting-started"></a>
 
-## 🔭 Future Features <a name="future-features"></a>
+- Create a local directory that you want to clone the repository.
+
+
+- Open the command prompt in the created directory.
+
+- On the terminal run this command git clone ``
+
+- Go to the repository folder using command prompt cd `Vet-Clinic`
+
+- Install the dev dependencies for linters run npm install.
+- setup Webpack
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Prerequisites
+
+In order to run this project you need:
+
+-Any broswer
+
+- familiarity with basic git commands
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Setup
+
+Clone this repository to your desired folder:
+
+- Open the command prompt in the created directory.
+
+- On the terminal run this command git clone https://github.com/SabaAhmad404/Vet-Clinic.git
+
+- Go to the repository folder using command prompt cd Vet-Clinic
+
+- Install the dev dependencies for linters run npm install.
+
+
+
+- Open the command prompt in the created directory.
+
+- On the terminal run this command git clone ``
+
+- Go to the repository folder using command prompt cd `Vet-Clinic`
+
+- Install the dev dependencies for linters run npm install.
+- setup Webpack
+
+
+
+- Open the command prompt in the created directory.
+
+- On the terminal run this command git clone ``
+
+- Go to the repository folder using command prompt cd `Vet-Clinic`
+
+- Install the dev dependencies for linters run npm install.
+- setup Webpack
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Prerequisites
+
+In order to run this project you need:
+
+-Any broswer
+
+- familiarity with basic git commands
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Setup
+
+Clone this repository to your desired folder:
+
+- Open the command prompt in the created directory.
+
+- On the terminal run this command git clone https://github.com/SabaAhmad404/Vet-Clinic.git
+
+- Go to the repository folder using command prompt cd Vet-Clinic
+
+- Install the dev dependencies for linters run npm install.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Author -->
+
+👤 **Authors**
+
 
 
 - [ ] **[Filter By Name]**
 - [ ] **[Filter by location]**
 - [ ] **[Filter animals by habits]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ## 🤝 Contributing <a name="contributing"></a>
+
+<!-- Author -->
+
+👤 **Authors**
+
+👤 **Authors**
+Saba Ahmad
+
+
+- GitHub: [@SabaAhmad404](https://github.com/SabaAhmad404)
+- LinkedIn: [@saba ahmad](https://www.linkedin.com/in/saba-ahmad-97b938244/)
+
+
+
+
+
+Feel free to check the [issues page](https://github.com/SabaAhmad404/Vet-Clinic/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a ⭐️ if you like this project!
+
+👤 **Author2**
+- Steven Mukama 
+- Github: [@stevenmukama](https://github.com/stevenmukama)
+- LinkedIn: [@steven mukama](https://www.linkedin.com/in/stevenmukama/)
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- You can suggest some UX improvements and suggest some animations.
+
+
+
+- You can suggest some UX improvements and suggest some animations.
+
+
+
+
+
+- [ ] **[Filter By Name]**
+- [ ] **[Filter by location]**
+- [ ] **[Filter animals by habits]**
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🤝 Contributing <a name="contributing"></a>
+
+I Would like to Thanks Microverse for providing the Project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
 
 Contributions, issues, and feature requests are welcome!
 
@@ -135,11 +296,23 @@ Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I Would like to Thanks Microverse for providing the Project.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
