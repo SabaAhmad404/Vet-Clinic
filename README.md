@@ -62,6 +62,59 @@ In this project, you will use a relational database to create the initial data s
 - **[Usser can filter animals by escape attempts]**
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+-[COMING SOON]()
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+- Create a local directory that you want to clone the repository.
+
+- Open the command prompt in the created directory.
+
+- On the terminal run this command git clone ``
+
+- Go to the repository folder using command prompt cd `Vet-Clinic`
+
+- Install the dev dependencies for linters run npm install.
+- setup Webpack
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Prerequisites
+
+In order to run this project you need:
+
+-Any broswer
+
+- familiarity with basic git commands
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Setup
+
+Clone this repository to your desired folder:
+
+- Open the command prompt in the created directory.
+
+- On the terminal run this command git clone https://github.com/SabaAhmad404/Vet-Clinic.git
+
+- Go to the repository folder using command prompt cd Vet-Clinic
+
+- Install the dev dependencies for linters run npm install.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Author -->
+
+👤 **Authors**
+
+
+
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -247,6 +300,17 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
+
+
+Saba Ahmad
+
+- GitHub: [@SabaAhmad404](https://github.com/SabaAhmad404)
+- LinkedIn: [@saba ahmad](https://www.linkedin.com/in/saba-ahmad-97b938244/)
+
+👤 **Author2**
+- Steven Mukama 
+- Github: [@stevenmukama](https://github.com/stevenmukama)
+- LinkedIn: [@steven mukama](https://www.linkedin.com/in/stevenmukama/)
 
 - On the terminal run this command git clone https://github.com/SabaAhmad404/Vet-Clinic.git
 
@@ -285,9 +349,13 @@ Saba Ahmad
 
 
 
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 <!-- Author -->
+
+
+Feel free to check the [issues page](https://github.com/SabaAhmad404/Vet-Clinic/issues).
 
 
 Feel free to check the [issues page](https://github.com/SabaAhmad404/Vet-Clinic/issues).
@@ -308,9 +376,15 @@ Saba Ahmad
 Give a ⭐️ if you like this project!
 
 
+## ⭐️ Show your support <a name="support"></a>
+
+Give a ⭐️ if you like this project!
+
+
 
 
 Feel free to check the [issues page](https://github.com/SabaAhmad404/Vet-Clinic/issues).
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -318,6 +392,7 @@ Feel free to check the [issues page](https://github.com/SabaAhmad404/Vet-Clinic/
 ## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project!
+
 
 👤 **Author2**
 - Steven Mukama 
@@ -330,6 +405,8 @@ I Would like to Thanks Microverse for providing the Project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
+
+
 
 
 
@@ -399,6 +476,7 @@ I Would like to Thanks Microverse for providing the Project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
+
 
 
 This project is [MIT](MIT.md) licensed.
