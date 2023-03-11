@@ -25,8 +25,38 @@ In this project, you will use a relational database to create the initial data s
 
 ## 🛠 Built With <a name="built-with"></a>
 
+
   postgreSQL
     
+
+### Tech Stack <a name="tech-stack"></a>
+
+
+<details>
+  <summary>Client</summary>
+</details>
+
+<details>
+  <summary>Server</summary>
+
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+
+- **[User can search animals by name]**
+- **[User can filter animals by weight]**
+- **[Usser can filter animals by escape attempts]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -39,6 +69,18 @@ In this project, you will use a relational database to create the initial data s
 ## 💻 Getting Started <a name="getting-started"></a>
 
 - Create a local directory that you want to clone the repository.
+
+
+- Open the command prompt in the created directory.
+
+- On the terminal run this command git clone ``
+
+- Go to the repository folder using command prompt cd `Vet-Clinic`
+
+- Install the dev dependencies for linters run npm install.
+- setup Webpack
+
+
 
 - Open the command prompt in the created directory.
 
@@ -78,16 +120,38 @@ Clone this repository to your desired folder:
 <!-- Author -->
 
 👤 **Authors**
+
+
+👤 **Authors**
+Saba Ahmad
+
+
+- GitHub: [@SabaAhmad404](https://github.com/SabaAhmad404)
+- LinkedIn: [@saba ahmad](https://www.linkedin.com/in/saba-ahmad-97b938244/)
+
 Saba Ahmad
 
 - GitHub: [@SabaAhmad404](https://github.com/SabaAhmad404)
 - LinkedIn: [@saba ahmad](https://www.linkedin.com/in/saba-ahmad-97b938244/)
 
+👤 **Author2**
+- Steven Mukama 
+- Github: [@stevenmukama](https://github.com/stevenmukama)
+- LinkedIn: [@steven mukama](https://www.linkedin.com/in/stevenmukama/)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+
 - You can suggest some UX improvements and suggest some animations.
+
+
+
+- [ ] **[Filter By Name]**
+- [ ] **[Filter by location]**
+- [ ] **[Filter animals by habits]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -107,7 +171,17 @@ Give a ⭐️ if you like this project!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I Would like to Thanks Microverse for providing the Project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
