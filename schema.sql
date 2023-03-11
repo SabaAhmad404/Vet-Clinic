@@ -8,3 +8,5 @@ CREATE TABLE animals
     weight_kg integer
 )
 
+ALTER TABLE animals
+    ADD COLUMN species text;
